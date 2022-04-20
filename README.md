@@ -7,7 +7,7 @@
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
    <a href= "mailto:yuseung.suh@gmail.com">>
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/apple-mail.png"/>
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/ios/50/000000/apple-mail.png"/>
   </a>
 
 <!---
