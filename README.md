@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python and JavaScript
 
-⚡️ Fun-Fact: I am a NCAA Division 1 student-athlete who play tennis!
+⚡️ Fun-Fact: I am a NCAA Division 1 student-athlete play tennis
 <!-- - 💞️ I’m looking to collaborate on ... -->
 📫 How to reach me  
    <a href= "mailto:yuseung.suh@gmail.com">
