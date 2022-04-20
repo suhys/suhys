@@ -6,6 +6,9 @@
   <a href= "https://www.linkedin.com/in/yuseung-suh/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
+   <a href= "mailto:yuseung.suh@gmail.com">>
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/apple-mail.png"/>
+  </a>
 
 <!---
 suhys/suhys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
