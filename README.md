@@ -7,7 +7,7 @@
     <img src="https://img.icons8.com/fluency/40/000000/apple-mail.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/yuseung-suh/">
-    <img src="https://img.icons8.com/office/40/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/40/000000/linkedin.png"/>
   </a>
 
 
