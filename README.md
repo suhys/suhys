@@ -3,12 +3,13 @@
 - 🌱 I’m currently learning Python and JavaScript
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me  
-  <a href= "https://www.linkedin.com/in/yuseung-suh/">
-    <img src="https://img.icons8.com/office/40/000000/linkedin.png"/>
-  </a>
    <a href= "mailto:yuseung.suh@gmail.com">
     <img src="https://img.icons8.com/fluency/40/000000/apple-mail.png"/>
   </a>
+  <a href= "https://www.linkedin.com/in/yuseung-suh/">
+    <img src="https://img.icons8.com/office/40/000000/linkedin.png"/>
+  </a>
+
 
 <!---
 suhys/suhys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
