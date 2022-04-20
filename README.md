@@ -2,7 +2,10 @@
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning Python and JavaScript
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me [Mail]yuseung.suh@gmail.com
+- 📫 How to reach me  
+  <a href= "https://www.linkedin.com/in/bryanjenks/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
 
 <!---
 suhys/suhys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
