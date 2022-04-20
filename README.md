@@ -3,6 +3,7 @@
 </p>
 
 🌱 I’m currently learning Python and JavaScript
+
 ⚡️ Fun-Fact: I am a NCAA Division 1 student-athlete who play tennis!
 <!-- - 💞️ I’m looking to collaborate on ... -->
 📫 How to reach me  
