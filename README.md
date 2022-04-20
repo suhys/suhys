@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and JavaScript
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me  
-  <a href= "https://www.linkedin.com/in/bryanjenks/">
+  <a href= "https://www.linkedin.com/in/yuseung-suh/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
 
