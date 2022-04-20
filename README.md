@@ -4,7 +4,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me  
   <a href= "https://www.linkedin.com/in/yuseung-suh/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+    <img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
   </a>
    <a href= "mailto:yuseung.suh@gmail.com">
     <img src="https://img.icons8.com/ios/50/000000/apple-mail.png"/>
